@@ -20,7 +20,7 @@ output:
       - "includes/footer.html"
 new_session: true
 navbar:
-  title: "Lab Wiki for the Developmental Psychopathology Lab"
+  title: "Markdown Website Template"
   left:
     - text: "Home"
       href: index.html
